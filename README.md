@@ -1,2 +1,2 @@
 # ButtonLED
-Arduino Program for Controlling a LED with a Button
+Arduino Program for Controlling an LED with a Button
